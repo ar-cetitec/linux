@@ -885,6 +885,7 @@
 				ssi0: ssi-0 { };
 				ssi1: ssi-1 { };
 				ssi2: ssi-2 { };
+				ssi4: ssi-4 { };
 			};
 		};
 
